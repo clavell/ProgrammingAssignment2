@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "## These functions will take a matrix and store it and its inverse\n## in a different environment i.e. cache them\n\n## This function creates the matrix\nmakeCacheMatrix <- function(x = matrix()) {\n\n}\n\n\n## This function computes the inverse and stores the matrix\n\ncacheSolve <- function(x, ...) {\n        ## Return a matrix that is the inverse of 'x'\n}\n",
+    "created" : 1485384056783.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1944804696",
+    "id" : "3CA849C",
+    "lastKnownWriteTime" : 1485384346,
+    "last_content_update" : 1485384346737,
+    "path" : "~/Desktop/coursera/r programming/assignment2/cachematrix.R",
+    "project_path" : "cachematrix.R",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
